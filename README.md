@@ -1,1 +1,1 @@
-##Example how to use github actions 
+##Example how to use github actions and sonar qube

@@ -11,6 +11,10 @@
 *.dll
 *.so
 *.dylib
+.scannerwork
+coverage
+node_modules
+
 
 # Test binary, built with `go test -c`
 *.test

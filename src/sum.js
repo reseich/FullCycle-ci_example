@@ -1,5 +1,11 @@
-function sum(a, b) {
+const test = new Object({})
+
+test.sum = function (a, b) {
     return a + b
 }
 
-module.exports = sum
+test.plus1 = (a) => {
+    return a + 1
+}
+
+module.exports = test
